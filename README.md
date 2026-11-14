@@ -1,7 +1,5 @@
 # Introducción al Aprendizaje Máquina
 
-Repositorio con las instrucciones de las actividades de la materia **Introducción al Aprendizaje Máquina**. Las descripciones se copiaron desde Notion para tenerlas a la mano (por ejemplo, para trabajar con asistentes de IA que no pueden abrir los links).
-
 ## Contenido del repositorio
 
 | Elemento | Descripción |
