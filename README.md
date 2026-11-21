@@ -1,5 +1,6 @@
 # Introducción al Aprendizaje Máquina
 
+<<<<<<< HEAD
 Repositorio con las actividades, notebooks y reportes de la materia **Introducción al Aprendizaje Máquina**.
 
 **Docente:** Daniel Isaías López Páez
@@ -13,6 +14,8 @@ Repositorio con las actividades, notebooks y reportes de la materia **Introducci
 | Mariana Flores Rosales | 2143017 |
 | Kenner Shahid López Ramírez | 2142291 |
 
+=======
+>>>>>>> ded8fa23af2e1482146348e998be106f05becb72
 ## Contenido del repositorio
 
 Cada carpeta `NN_<actividad>/` contiene los entregables e instrucciones de la actividad correspondiente:
